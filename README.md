@@ -9,4 +9,4 @@ If I time allowed for it, I would delve into many of the urban issues I've taken
   * Mapping the relationship between urban green space and air quality in Los Angeles 
   * Impact of rising sea levels on informal settlements
 ## Objectives for the Class
-My biggest goal for this class is to gain the necessary skills needed to effectively work and communicate data using Python. I would also love to explore Python libraries that can generate maps like Follium because maps are dope !
+My biggest goal for this class is to gain the necessary skills needed to effectively work with and communicate data using Python. I would also love to explore Python libraries that can generate maps like Follium because maps are dope !
