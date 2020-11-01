@@ -1,0 +1,2 @@
+# UCLA/USC Humanitarian Mapathon Reflection
+This was my first mapathon ever and it was an overwhelmingly positive experience! I started off day one by attending one of the tutorial sessions on how to digitize buildings. I think the term "mapathon" can be a bit intimidating. For me, the first thing that comes to mind is some intense spatial analysis using GIS or ESRI products. So to say I was surprised to learn that mapping can literally be done by anyone using OSM was super cool!   
